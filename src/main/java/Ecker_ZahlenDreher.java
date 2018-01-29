@@ -9,8 +9,7 @@ public class Ecker_ZahlenDreher {
         int calculatingNumber;
         int digitCount = 0;
         int reversedNumber = 0;
-        int digit = 0;
-        int multiplier;
+        int digit;
         int pow = 1;
 
 
